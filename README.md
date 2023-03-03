@@ -20,3 +20,6 @@ Key features:
 * Ability to share fortune to shared board
 * Ability to view saved and shared boards
 * Saved/shared fortunes are persistently stored
+
+### SIMON HTML
+I'learned a lot from this project! It can be found at https://simon.fortunecookie.click/. I feel like this project helped me understand how subdomains work a bit more. I also learned a bit more about button and table elements and how to use them. Additionally, I learned how to make a good header and footer which work across multiple pages.
