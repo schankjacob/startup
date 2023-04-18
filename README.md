@@ -22,4 +22,7 @@ Key features:
 * Saved/shared fortunes are persistently stored
 
 ### SIMON HTML
-I'learned a lot from this project! It can be found at https://simon.fortunecookie.click/. I feel like this project helped me understand how subdomains work a bit more. I also learned a bit more about button and table elements and how to use them. Additionally, I learned how to make a good header and footer which work across multiple pages.
+I learned a lot from this project! It can be found at https://simon.fortunecookie.click/. I feel like this project helped me understand how subdomains work a bit more. I also learned a bit more about button and table elements and how to use them. Additionally, I learned how to make a good header and footer which work across multiple pages.
+
+### SIMON CSS
+I've learned quite a bit about the formatting of web pages. It's interesting how we use flexbox to make pages responsive to different viewports. I also love the idea of using CSS to create shapes. And of course, learning how to make things just plain look nice never hurt anyone.
