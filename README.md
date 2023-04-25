@@ -26,3 +26,25 @@ I learned a lot from this project! It can be found at https://simon.fortunecooki
 
 ### SIMON CSS
 I've learned quite a bit about the formatting of web pages. It's interesting how we use flexbox to make pages responsive to different viewports. I also love the idea of using CSS to create shapes. And of course, learning how to make things just plain look nice never hurt anyone.
+
+
+### FINAL NOTES
+* Ports
+  * 20: FTP (file transfer protocol)
+  * 22: SSH
+  * 53: DNS (looks up IP addresses)
+  * 80: HTTP
+  * 443: HTTPS
+* HTTP
+  * Verbs: GET, POST, PUT, DELET, OPTIONS
+  * Codes:
+    * 1xx: informational
+    * 2xx: success
+    * 3xx: redirect to some other location/cached resource still valid
+    * 4xx: client errors (invalid request)
+    * 5xx: server errors
+  * Header
+  * Body
+* React
+  * props, state, render
+  
